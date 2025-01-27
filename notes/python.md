@@ -96,5 +96,3 @@
 # Resource : 
 - `Allboringstuff.com` - Automate the boring stuff in python
 
-gitkeghode@gmail.com
-git@123//
