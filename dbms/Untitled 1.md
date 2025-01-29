@@ -1,3 +1,5 @@
+### Inner join : 
+
 - [ ] select what you want from btoh
 - [ ] use column which is common in both
 - [ ] use inner join/ join. both have same o/p
